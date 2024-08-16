@@ -3,3 +3,5 @@
 stable
 
 new feature
+
+second feature
